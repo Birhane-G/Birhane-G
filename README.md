@@ -8,8 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.linkedin.com/in/birhane-gebrial-a85b5a197/" title="Linkedin Profile"><img width="22" src="images/linkedin.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/birhane-gebrial-a85b5a197" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
