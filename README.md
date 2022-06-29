@@ -7,15 +7,12 @@
 </h1>
 
 <div align="center">
-   <p>Hi, My Name is Birhane Gebrial, Software Developer from Ethiopia</p>
-  <br>
-  🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa
-  <br>
-  💻 I love to know anythings about code
-  <br>
-  📚 I’m currently learning Software Engineering
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a>
+   <p>Hi, My Name is Birhane Gebrial</p><br>
+   <p>I'm Software Developer from Ethiopia </p><br>
+   <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p><br>
+   <p> 💻 I love to know anythings about code</p><br>
+   <p>📚 I’m currently learning Software Engineering</p><br>
+   <p>💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a></p>
 </div>
 
 <hr>
