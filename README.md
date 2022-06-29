@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Birhane+Gebrial....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Birhane....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -72,7 +72,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Birhane-G/Waving-Flag-ETHIOPIAN-" title="Flag-ETHIOPIAN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Birhane-G&repo=Waving-Flag-ETHIOPIAN&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Birhane-G/alx-low_level_programming" title="alx-low_level_programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Birhane-G&repo=alx-low_level_programming&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Birhane-G/Waving-Flag-ETHIOPIAN" title="Flag-ETHIOPIAN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Birhane-G&repo=Waving-Flag-ETHIOPIAN&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Birhane-G/alx-low_level_programming" title="alx-low_level_programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Birhane-G&repo=alx-low_level_programming&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
