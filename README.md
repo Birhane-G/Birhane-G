@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Birhane-G.Birhane-G">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Birhane....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I am Birhane!+👋;Nice+to+meet+you!&center=true&size=35">
+   </a>
 </h1>
 
 <h5 align="center">
@@ -17,11 +17,11 @@
   <br>
   🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love to know anythings about code
   <br>
   📚 I’m currently learning Software Engineering
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/Birhane-G/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a>
 </p>
 
 <hr>
