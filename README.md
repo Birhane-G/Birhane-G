@@ -37,19 +37,13 @@
     </a>
   </div>
   
-  <br><br><br><br><br><br>
+  <br><br><br>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=Birhane-G&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/birhane-gebrial-a85b5a197" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
-<br>
-
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -85,3 +79,9 @@
 <h4 align="center">
   <a href="https://github.com/Birhane-G?tab=repositories" title="Show Repositories">Show More 🔍</a>
 </h4>
+
+<hr>
+<h2 align="center">Contact</h2>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/birhane-gebrial-a85b5a197" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
