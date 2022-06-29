@@ -8,8 +8,8 @@
 
 <div align="center">
    <p text-align="left">Hi, My Name is Birhane Gebrial</p>
-   <p>👨‍💻 I'm Software Developer from Ethiopia </p>
-   <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
+   <p text-align="left">👨‍💻 I'm Software Developer from Ethiopia </p>
+   <p text-align="left">🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
    <p>💻 I love to know anythings about code</p>
    <p>📚 I’m currently learning Software Engineering</p>
    <p>💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a></p>
