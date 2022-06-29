@@ -6,7 +6,7 @@
    </a>
 </h1>
 
-<div align="center">
+<div>
    <p>Hi, My Name is Birhane Gebrial</p>
    <p>👨‍💻 I'm Software Developer from Ethiopia </p>
    <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
