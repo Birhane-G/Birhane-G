@@ -6,6 +6,19 @@
    </a>
 </h1>
 
+<p align="center">
+  Hi, I'm Birhane Gebrial, Software Developer from Ethiopia
+  <br>
+  <br>
+  🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa
+  <br>
+  💻 I love to know anythings about code
+  <br>
+  📚 I’m currently learning Software Engineering
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a>
+</p>
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -33,18 +46,6 @@
   <code><a href="https://www.linkedin.com/in/birhane-gebrial-a85b5a197" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Birhane Gebrial, Software Developer from Ethiopia
-  <br>
-  <br>
-  🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa
-  <br>
-  💻 I love to know anythings about code
-  <br>
-  📚 I’m currently learning Software Engineering
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a>
-</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
