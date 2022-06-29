@@ -2,13 +2,12 @@
 
 <h1 align="center">
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=31&center=true&vCenter=true&lines=Hello%2C+I'am+Birhane;Nice+To+Meet+You!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=31&center=true&vCenter=true&lines=Hello%2C+I'm+Birhane;Nice+To+Meet+You!">
    </a>
 </h1>
 
-<p align="center">
-  Hi, I'm Birhane Gebrial, Software Developer from Ethiopia
-  <br>
+<div align="center">
+   <p>Hi, My Name is Birhane Gebrial, Software Developer from Ethiopia</p>
   <br>
   🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa
   <br>
@@ -17,7 +16,8 @@
   📚 I’m currently learning Software Engineering
   <br>
   💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a>
-</p>
+</div>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
