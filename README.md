@@ -5,4 +5,4 @@ Hello I am Birhane Gebrial
 https://github-stats-alpha.vercel.app/api/?username={Birhane-G}
 
 // ex
-https://github-stats-alpha.vercel.app/api/?username=cachecleanerjeet
+https://github-stats-alpha.vercel.app/api/?username=Birhane
