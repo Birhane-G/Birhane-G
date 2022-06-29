@@ -7,9 +7,9 @@
 </h1>
 
 <div align="center">
-   <p text-align="left">Hi, My Name is Birhane Gebrial</p>
-   <p text-align="left">👨‍💻 I'm Software Developer from Ethiopia </p>
-   <p text-align="left">🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
+   <p>   Hi, My Name is Birhane Gebrial</p>
+   <p>👨‍💻 I'm Software Developer from Ethiopia </p>
+   <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
    <p>💻 I love to know anythings about code</p>
    <p>📚 I’m currently learning Software Engineering</p>
    <p>💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a></p>
@@ -28,15 +28,20 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Birhane-G&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  
   <br><br><br><br><br><br><br><br><br>
+  
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birhane-G&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  
   <br>
+  
   <img src="https://activity-graph.herokuapp.com/graph?username=Birhane-G&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
 <hr>
 
 <h5 align="center">
