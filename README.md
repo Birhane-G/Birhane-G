@@ -12,7 +12,6 @@
    <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
    <p>💻 I love to know anythings about code</p>
    <p>📚 I’m currently learning Software Engineering</p>
-   <p>💬 Ask me anything about from <a href="https://github.com/Birhane-G/issues" title="Issues">Here</a></p>
 </div>
 
 <hr>
