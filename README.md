@@ -1,6 +1,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Birhane-G.Birhane-G">
 <img alt="Birhane GitHub Profile" src="images/gitprofile.jpg"/>
-<p>My Name is <b>Birhane Gebrial</b> from <b>Ethiopia</b>. I am currently studying <b>software engineering</b> at Arba minch University and AlX and I really enjoy to <b>code</b>.</p>
+<p>My Name is <b>Birhane Gebrial</b> from <b>Ethiopia</b>. I am currently studying <b>software engineering</b> at Arba minch University and ALX and I really enjoy to <b>code</b>.</p>
 <h2>Stats</h2>
  <div>
     <a href="https://github.com/Birhane-G">
