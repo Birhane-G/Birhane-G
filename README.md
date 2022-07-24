@@ -1,23 +1,9 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Birhane-G.Birhane-G">
-
-<h1 align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=31&center=true&vCenter=true&lines=Hello%2C+I'm+Birhane;Nice+To+Meet+You!">
-   </a>
-</h1>
-
-<div align="center">
-   <ul>
-      <li>My Name is Birhane Gebrial</li>
-      <li>I'm currently studying in Arba minch Univeristy and ALX</li>
-      <li>I love to know anythings about code</li>
-      <li>I’m currently learning Software Engineering</li>
-   </ul>
-</div>
-
+<img alt="Birhane GitHub Profile" src="images/gitprofile.jpg"/>
+<p>My Name is <b>Birhane Gebrial</b> from <b>Ethiopia</b>. I am currently studying <b>software engineering</b> at Arba minch University and AlX and I really enjoy to <b>code</b>.</p>
 <hr>
 
-<h2 style="color:Green">Status</h2>
+<h2>Status</h2>
 <br>
 <p align=center>
   <div align=center>
