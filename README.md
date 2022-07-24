@@ -4,10 +4,10 @@
 <h2>Stats</h2>
  <div>
     <a href="https://github.com/Birhane-G">
-      <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Birhane-G&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Birhane-G" />
+      <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Birhane-G&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Birhane-G" />
     </a>
     <a href="https://github.com/Birhane-G" title="Birhane">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Birhane-G&show_icons=true&theme=highcontrast" />
+      <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Birhane-G&show_icons=true&theme=highcontrast" />
     </a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
