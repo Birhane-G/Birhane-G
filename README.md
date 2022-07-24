@@ -7,16 +7,15 @@
 </h1>
 
 <div align="center">
-   <p>   Hi, My Name is Birhane Gebrial</p>
-   <p>👨‍💻 I'm Software Developer from Ethiopia </p>
-   <p>🔬 I'm currently studying  in Arba minch Univeristy and ALX Africa </p>
-   <p>💻 I love to know anythings about code</p>
-   <p>📚 I’m currently learning Software Engineering</p>
+   *My Name is Birhane Gebrial
+   *I'm currently studying  in Arba minch Univeristy and ALX Africa
+   *I love to know anythings about code
+   *I’m currently learning Software Engineering
 </div>
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>Stats</h2>
 <br>
 <p align=center>
   <div align=center>
