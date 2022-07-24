@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Birhane-G.Birhane-G">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Birhane-G.Birhane-G">
 
 <h1 align="center">
    <a href="https://git.io/typing-svg">
@@ -7,15 +7,17 @@
 </h1>
 
 <div align="center">
-   *My Name is Birhane Gebrial
-   *I'm currently studying  in Arba minch Univeristy and ALX Africa
-   *I love to know anythings about code
-   *I’m currently learning Software Engineering
+   <ul>
+      <li>My Name is Birhane Gebrial</li>
+      <li>I'm currently studying in Arba minch Univeristy and ALX</li>
+      <li>I love to know anythings about code</li>
+      <li>I’m currently learning Software Engineering</li>
+   </ul>
 </div>
 
 <hr>
 
-<h2>Stats</h2>
+<h2 style="color:Green">Status</h2>
 <br>
 <p align=center>
   <div align=center>
